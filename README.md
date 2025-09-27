@@ -136,7 +136,7 @@ npm run preview   # Visualizar build localmente
 Edite `App.tsx` para configurar o WhatsApp:
 
 ```ts
-const whatsappNumber = "5527993111694"; // Inclua o código do país
+const whatsappNumber = "5527999999999"; // Inclua o código do país
 const contactMessage = "Olá! Vi seu site e gostaria de solicitar um orçamento.";
 ```
 
@@ -215,6 +215,7 @@ Este projeto está sob a licença **MIT** – veja [LICENSE](LICENSE).
 </div>  
 
 ---
+
 
 
 
